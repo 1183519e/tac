@@ -3,7 +3,7 @@ width = 580;
 margin = 20;
 marble = 10;
 nest = 32;
-center = 100;
+center = 140;
 
 module field(){
     square([width, width]);
